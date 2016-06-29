@@ -1,4 +1,4 @@
-package br.com.searchformycat;
+package br.com.searchformycat.execute;
 
 import java.io.Serializable;
 
