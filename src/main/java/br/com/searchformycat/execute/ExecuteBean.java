@@ -13,7 +13,7 @@ import javax.faces.context.FacesContext;
 
 @ManagedBean
 public class ExecuteBean implements Serializable{
-	
+//	teste
 	private static final long serialVersionUID = 1L;
 	
 	public void routeCat(){			
